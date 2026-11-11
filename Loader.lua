@@ -1,6 +1,9 @@
 local games = {--these are the supported games so dont execute any other one boi
     [142823291] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/mm2.lua";--mm2
+    
     [7991339063] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/RainbowFriends.lua";--rainbow friends
+    [13622981808] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/RainbowFriends.lua";--had to add multiple yk!
+    
     [134208374070897] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/Monochrome.lua";--monochrome
     [286090429] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/Arsenal.lua";--arsenal
     [17625359962] = "https://raw.githubusercontent.com/imveryveryud/FilipinoHub/refs/heads/main/Games/Rivals.lua";--rivals
